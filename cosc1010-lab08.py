@@ -1,9 +1,9 @@
 # Meghan Longua
 # UWYO COSC 1010
-# Submission Date: 11/6/2024
+# Submission Date: 11/10/2024
 # Lab 08
 # Lab Section:15
-# Sources, people worked with, help given to:
+# Sources, people worked with, help given to: Emmanual Penkra
 # your
 # comments
 # here
